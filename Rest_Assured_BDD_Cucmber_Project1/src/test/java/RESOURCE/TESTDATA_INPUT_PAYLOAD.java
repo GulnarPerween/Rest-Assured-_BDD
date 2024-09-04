@@ -25,7 +25,7 @@ public class TESTDATA_INPUT_PAYLOAD {
 		
 		
 		List<String> mylist=new ArrayList<String>();
-		mylist.add("shoe park");
+		mylist.add("shoe parkssss");
 		mylist.add("shop");
 		
 		p.setTypes(mylist);
